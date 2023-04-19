@@ -8,7 +8,7 @@
 ## Table of Content
 
 
-**1. SQL: Aggregate_Functions**
+**1. SQL: Data Types**
  - Char_Varchar.sql
  - Date_Math.sql
  - Decimals.sql
